@@ -1,6 +1,7 @@
 body{
     background-color: rgba(137, 33, 235, 0.925);
     font-family: 'Pacifico', cursive;
+    font-weight: bold;
 }
 
 h1,h2{
@@ -25,15 +26,13 @@ img {
 }
 
 p {
-    font-weight: bold;
     width: 1000px;
     margin-left: 30px;
     font-size: 25px;
 }
 
-.main b {
-    font-weight: lighter;
-    color: #940707;
+span {
+    color: rgb(201, 53, 164);
 }
 
 .main {
@@ -44,7 +43,7 @@ p {
     font-size: 20px;
     margin-left: 30px;
     margin-top: 20px;
-   }
+}
 
 .profi {
     padding: 25px;
@@ -74,8 +73,19 @@ p {
     font-size: 18px;
     margin-left: 25px;
     list-style: square;
+    margin-bottom: 5px;
 }
 
 b {
     color: rgb(12, 24, 199);
+}
+
+.kvalif li {
+    border: thick double #007906;;
+    padding: 10px;
+    font-size: x-small;
+    color: rgb(71, 255, 230);
+    margin-bottom: 7px;
+    list-style: decimal;
+    border-radius: 6px;
 }
