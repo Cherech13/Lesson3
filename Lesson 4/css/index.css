@@ -1,0 +1,133 @@
+header {
+    background: #4A4F56;
+    height: 82px;
+   }
+
+body {
+    Font: Roboto;
+    font-family: Roboto;
+    max-width: 793px;
+    height: 507;
+ 
+    }
+    main{
+        background-color: #3B3F45;
+        padding-bottom: 45px;
+    }
+
+article{
+    padding-bottom: 45px;
+    padding-top: 20px;
+}
+
+h1, h3 {
+    color: #FF8984;
+    width: 700;
+    font-style: normal;
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+    line-height: 28px;
+    padding-top: 19px;
+    padding-bottom: 4px;
+}
+
+h3 {
+    font-size: 16px;
+    line-height: 19px;
+    padding-bottom: 12px;
+    }
+
+    span{
+        font-size: 11px;
+        color: #ffffff;
+    }
+
+.les {
+    background-color:#88839E;
+    width: 534px;
+    height: 45px;
+    margin-left: 129px;
+   }
+
+.les2 {
+    background-color:#88839E;
+    width: 534px;
+    height: 45px;
+    margin-left: 129px;
+}
+
+.les3{
+    background-color:#88839E;
+    width: 534px;
+    height: 45px;
+    margin-left: 129px;
+}
+
+.les4{
+    background-color:#88839E;
+    width: 534px;
+    height: 45px;
+    margin-left: 129px;
+}
+
+.les5{
+    background-color:#88839E;
+    width: 534px;
+    height: 45px;
+    margin-left: 129px;
+}
+
+.les6{
+    background-color:#88839E;
+    width: 534px;
+    height: 45px;
+    margin-left: 129px;
+}
+
+.checkbox, .checkbox2, .checkbox3, .checkbox4, .checkbox5, .checkbox6{
+    margin: 12px 12px 14px 16px;
+}
+
+input{
+    width: 19px;
+    height: 19px;
+    background-color: #fffff;
+}
+
+label{
+    color: #ffffff;
+}
+
+article div:hover{
+    background: #625E77;
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
+}
+
+article input:checked~label {
+    text-decoration: line-through;
+    
+}
+
+input:checked~.les{
+    background: #7A7593;    
+}
+
+footer{
+    background: #4A4F56;;
+    width: 534px;
+    height: 45px; 
+    margin-left: 129px;
+}
+
+footer p{
+    text-align: center;
+    font-size: 18px;
+    color: #FF8984;
+    padding-top: 12px;
+}
+
+
