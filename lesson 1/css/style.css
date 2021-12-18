@@ -1,0 +1,91 @@
+body{
+    background-color: rgba(137, 33, 235, 0.925);
+    font-family: 'Pacifico', cursive;
+    font-weight: bold;
+}
+
+h1,h2{
+    text-align: center;
+    margin-top: 20px;
+}
+
+h1{
+    color: cornsilk;
+    font-size: 40px;
+}
+
+h2{
+    color: white;
+    font-size: 50px;
+}
+
+img {
+    float: right;
+    width: 420px;
+    margin-top: 15px;
+}
+
+p {
+    width: 1000px;
+    margin-left: 30px;
+    font-size: 25px;
+}
+
+span {
+    color: rgb(201, 53, 164);
+}
+
+.main {
+    padding: 5px 15px 8px;
+    color: chartreuse;
+    border: 5px dotted cornsilk;
+    width: 1000px;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.profi {
+    padding: 25px;
+    color: rgba(231, 128, 10, 0.986);
+    font-size: 45px;
+}
+
+.profi li {
+    padding: 10px 30px;
+    border: 2px solid rgb(223, 17, 17);
+    color: #0fe03d;
+    font-size: 20px;
+    margin-bottom: 5px;
+    width: 1000px;
+}
+
+.dodat {
+    padding: 25px;
+    color: snow;
+    font-size: 40px;
+    width: 1000px;
+}
+
+.dodat li {
+    padding: 3px;
+    color: rgb(29, 214, 183);
+    font-size: 18px;
+    margin-left: 25px;
+    list-style: square;
+    margin-bottom: 5px;
+}
+
+b {
+    color: rgb(12, 24, 199);
+}
+
+.kvalif li {
+    border: thick double #007906;;
+    padding: 10px;
+    font-size: x-small;
+    color: rgb(71, 255, 230);
+    margin-bottom: 7px;
+    list-style: decimal;
+    border-radius: 6px;
+}
