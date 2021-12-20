@@ -1,0 +1,137 @@
+@font-face{
+
+    font-family: 'Weathericons';
+    
+    src: url('../fonts/weathericons-regular-webfont.eot');
+    
+    src: url('../fonts/weathericons-regular-webfont.woff2') format('eot'),
+    
+    url('../fonts/weathericons-regular-webfont.woff') format('woff'),
+    
+    url('../fonts/weathericons-regular-webfont.ttf') format('truetype'),
+    
+    url('../fonts/weathericons-regular-webfont.svg') format('svg');
+    }
+    
+main{
+    background-color: #2B81AC;
+    position: absolute;
+    color: white;  
+    }
+
+body{
+    position: absolute;
+    width: 832px;
+    height: 547px;
+    font-family: Roboto;
+    }
+
+.content{
+    margin: 14px 17px 13px 16px;
+    background: #3399CC;
+    width: 799px;
+    height: 520px;
+    }
+
+li{
+    display: inline;
+    font-size: 16px;
+    border: solid 2px white;
+    }
+
+.firstblock{
+   padding-top: 97px;
+   padding-bottom: 0;
+   }
+
+ol{
+    font-size: 0;
+    }
+
+.lisbon{
+   padding: 16px 98px;
+   background-color: #3399CC;
+   margin-left: 133px;
+   display: inline-block;
+   }
+
+.Paris{
+    padding: 16px 40px;
+    background: #33CCCC;
+    margin-left: 0;
+    display: inline-block;
+    }
+
+.belg{
+    margin-left: 0;
+    padding: 16px 39.5px;
+    background: #996699;
+    display: inline-block;
+    }
+
+.secondblock{
+  display: inline-block;
+    }
+
+.venice{
+    margin-left: 133px;
+    background: #C24747;
+    display: inline-block;
+    padding: 16px 35px; 
+    }
+
+.telav{
+    background: #E2674A;
+    display: inline-block;
+    padding: 16px 33px;
+    }
+
+.kyiv{
+    background: #FFCC66;
+    display: inline-block;
+    padding: 16px 40px;
+    } 
+
+.amsterdam{
+    background: #99CC99;
+    display: inline-block;
+    padding: 16px 29.5px;
+    }
+
+   .thirdblock{
+    display: inline-block;
+    }
+
+   .Tokyo{
+    background: #669999;
+    padding: 16px 35px; 
+    margin-left: 133px;
+    display: inline-block;
+   }
+
+   .San{
+    background: #CC6699;
+    padding: 16px 79px;
+    display: inline-block;
+   }
+
+   .Sydney{
+    background: #339966;
+    display: inline-block;
+    padding: 16px 45.5px;
+    }
+
+   .fourblock{
+       display: inline-block;
+    }
+
+    .new{
+       display: inline-block;
+       background: #666699;
+       margin-left: 133px;
+       padding: 16px 230px;
+
+    }
+
+
+
