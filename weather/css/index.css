@@ -35,7 +35,7 @@ body{
 
 li{
     display: inline;
-    font-size: 16px;
+    font-size: 18px;
     border: solid 2px white;
     }
 
@@ -49,7 +49,7 @@ ol{
     }
 
 .lisbon{
-   padding: 16px 98px;
+   padding: 16px 96px;
    background-color: #3399CC;
    margin-left: 133px;
    display: inline-block;
@@ -83,7 +83,7 @@ ol{
 .telav{
     background: #E2674A;
     display: inline-block;
-    padding: 16px 33px;
+    padding: 16px 27.5px;
     }
 
 .kyiv{
@@ -95,7 +95,7 @@ ol{
 .amsterdam{
     background: #99CC99;
     display: inline-block;
-    padding: 16px 29.5px;
+    padding: 16px 28.5px;
     }
 
    .thirdblock{
@@ -111,14 +111,14 @@ ol{
 
    .San{
     background: #CC6699;
-    padding: 16px 79px;
+    padding: 16px 74px;
     display: inline-block;
    }
 
    .Sydney{
     background: #339966;
     display: inline-block;
-    padding: 16px 45.5px;
+    padding: 16px 46.2px;
     }
 
    .fourblock{
@@ -129,7 +129,7 @@ ol{
        display: inline-block;
        background: #666699;
        margin-left: 133px;
-       padding: 16px 230px;
+       padding: 16px 234px;
 
     }
 
