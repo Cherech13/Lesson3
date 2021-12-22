@@ -15,12 +15,12 @@
     
 main{
     background-color: #2B81AC;
-    position: absolute;
+    position: relative;
     color: white;  
     }
 
 body{
-    position: absolute;
+    position: relative;
     width: 832px;
     height: 547px;
     font-family: Roboto;
