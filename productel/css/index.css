@@ -1,0 +1,170 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+nav {
+    background: #FFFFFF;
+    margin-top: 20px;
+    margin-bottom: 113px;
+    display: flex;
+    height: 78px;
+    max-width: 1400px;
+    align-items: center;
+}
+
+.logo {
+    height: 31.17px;
+    width: 32px;
+    margin-left: 143.92px;
+}
+
+.name {
+    width: 143.12px;
+    height: 28.97px;
+}
+
+.list {
+    display:inline-flex;
+    margin-left: 270px;
+    flex: 2 90px;
+}
+.name {
+    margin-left: 12px;
+}
+
+.list li {
+    margin-left: 12px;
+}
+
+.orange-buttonone {
+    margin-right: 168px;
+    margin-left: 14px;
+    color: #FFFFFF;
+    background: #FF9900;
+    border-radius: 4px; 
+    height: 46px;
+    width: 110px;
+    font-size: 16px;
+}
+
+.white-button {
+    border: 1px solid #BCD0E5;
+    box-sizing: border-box;
+    border-radius: 4px;
+    height: 46px;
+    width: 102px;
+}
+
+header {
+    display: grid;
+    margin: 30px 129.65px 111.17px 145px;
+    grid-template-columns: 458px 518px;
+    grid-template-rows: repeat(100px);
+    grid-column-gap: 60px;
+}
+
+h1 {
+    font-size: 44px;
+    line-height: 54px;
+    color: #2F281E;
+    width: 458px;
+    height: 95px; 
+    margin-bottom: 30px; 
+}
+
+.people {
+    position: absolute;
+    z-index: 100;
+}
+
+.oval {
+    position: absolute;
+    z-index: 99;
+    margin-bottom: 135px;
+}
+
+.header-picture {
+    grid-column-start: 2;
+    grid-row-start: 1;
+}
+
+.p__header {
+    grid-column-start: 1;
+    grid-row-end: 2;
+    font-size: 18px;
+    line-height: 28px;  
+    margin-right: 116px;
+    position: absolute;
+}
+
+.header__watch {
+    grid-column-start: 1;
+    grid-row-start: 3;
+    display: flex;
+    margin-top: 45px;
+}
+
+.orange-button__header {
+    background: #FF9900;
+    border-radius: 4px;
+    margin-right: 30.5px;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 24px;
+    width: 175px;
+    height: 53px;
+}
+
+.triangle {
+    padding-right: 8.5px;
+}
+
+.watch {
+    align-self: center;
+}
+
+.feature {
+    display: flex;
+    margin-top: 300px;
+    flex-direction: column;
+    margin-right: 406px;
+}
+
+h2 {
+    font-size: 36px;
+    line-height: 54px;
+    width: 500px;
+    align-self: center;
+    text-align: center;
+}
+
+.card {
+    display: flex;
+    margin-top: 54px;
+    margin-left: 161px;
+    
+}
+
+h3 {
+    font-size: 22px;
+    line-height: 33px;
+    color: #2F281E;
+    margin-top: 30px;
+    margin-bottom: 13px;
+}
+
+.card__text {
+    font-size: 16px;
+    line-height: 26px;
+    height: 52px;
+}
+
+.feature__orange-button {
+    background: #FF9900;
+    border-radius: 4px;
+    color: #FFFFFF;
+    width: 175px;
+    height: 53px;
+    margin-top: 60px;
+    align-self: center;
+}
