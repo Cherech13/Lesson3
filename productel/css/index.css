@@ -168,3 +168,136 @@ h3 {
     margin-top: 60px;
     align-self: center;
 }
+
+.effortless-validation {
+    display: flex;
+}
+
+.effortless-validation__text {
+    width: 486px;
+    height: 531px;  
+    margin-top: 236px;
+    margin-left: 145px;
+}
+
+.effortless-validation__picture {
+    margin-top: 210px;
+    margin-right: 145px;
+    margin-left: 104px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 26px;
+    color: #544837;
+}
+
+h4 {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 26px;
+    color: #2F281E;
+    margin-bottom: 12px;
+    margin-top: 25px;
+}
+
+.block__title {
+    margin-bottom: 22px;
+    font-size: 36px;
+    line-height: 54px;
+    color: #2F281E;
+    font-weight: bold;
+    text-align: left;
+}
+
+.Product-Managers {
+    display: flex;
+    margin-top: 102px;
+}
+
+.Product-Managers__picture {
+    margin-left: 145px;
+    margin-right: 102.38px;  
+}
+
+.Product-Managers__text {
+    width: 486px;
+    height: 427px;
+}
+
+.Product-Managers__text__list {
+    margin-top: 30px;
+    list-style-image: url(/productel/img/icon_list.png);
+}
+
+li {
+    margin-top: 30px;
+}
+
+.Marketers {
+    display: flex;
+    margin-top: 105px;
+    margin-left: 147px;
+}
+
+.Marketers__text {
+    width: 486px;
+    height: 531px;
+}
+
+.marketers__picture {
+    padding-left: 82px;
+}
+
+footer {
+    margin-bottom: 85px;
+}
+
+.line {
+    border-bottom: 2px solid rgba(188, 208, 229, 0.496913);
+    margin-left: 147px;
+    margin-top: 185px;
+    width: 1109px;
+}
+
+.footer__box {
+    display: flex;
+    margin-left: 147px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer__nav {
+    margin-top: 102px;
+    padding-top: 65px;
+}
+
+.footer__navigation {
+    margin-top: 102px;
+    padding-top: 65px;
+}
+
+.footer__input {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-end;
+}
+
+.footer__orange-button {
+    align-self: left;
+    background: #FF9900;
+    border-radius: 4px;
+    color: #FFFFFF;
+    width: 131px;
+    height: 39px;
+    margin-top: 21px;
+}
+
+.input__tel {
+    background: #FFFFFF;
+    border: 1px solid #BCD0E5;
+    box-sizing: border-box;
+    border-radius: 4px;
+    width: 325px;
+    height: 48px;
+}
