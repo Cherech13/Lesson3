@@ -1,5 +1,7 @@
 body {
     font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    line-height: 26px;
 }
 
 nav {
@@ -15,7 +17,7 @@ nav {
 .logo {
     height: 31.17px;
     width: 32px;
-    margin-left: 143.92px;
+    margin-left: 5%;
 }
 
 .name {
@@ -127,7 +129,7 @@ h1 {
     display: flex;
     margin-top: 300px;
     flex-direction: column;
-    margin-right: 406px;
+    margin-right: 5%;
 }
 
 h2 {
@@ -177,18 +179,14 @@ h3 {
     width: 486px;
     height: 531px;  
     margin-top: 236px;
-    margin-left: 145px;
+    margin-left: 5%;
 }
 
 .effortless-validation__picture {
-    margin-top: 210px;
-    margin-right: 145px;
-    margin-left: 104px;
+    margin: 210px 145px 0 104px;
 }
 
 p {
-    font-size: 16px;
-    line-height: 26px;
     color: #544837;
 }
 
@@ -210,22 +208,22 @@ h4 {
     text-align: left;
 }
 
-.Product-Managers {
+.product-managers {
     display: flex;
     margin-top: 102px;
 }
 
-.Product-Managers__picture {
-    margin-left: 145px;
+.product-managers__picture {
+    margin-left: 5%;
     margin-right: 102.38px;  
 }
 
-.Product-Managers__text {
+.product-managers__text {
     width: 486px;
     height: 427px;
 }
 
-.Product-Managers__text__list {
+.product-managers__text__list {
     margin-top: 30px;
     list-style-image: url(/productel/img/icon_list.png);
 }
@@ -234,13 +232,13 @@ li {
     margin-top: 30px;
 }
 
-.Marketers {
+.marketers {
     display: flex;
     margin-top: 105px;
-    margin-left: 147px;
+    margin-left: 5%;
 }
 
-.Marketers__text {
+.marketers__text {
     width: 486px;
     height: 531px;
 }
@@ -255,16 +253,17 @@ footer {
 
 .line {
     border-bottom: 2px solid rgba(188, 208, 229, 0.496913);
-    margin-left: 147px;
+    margin-left: 5%;
     margin-top: 185px;
-    width: 1109px;
+    width: 100%;
 }
 
 .footer__box {
     display: flex;
-    margin-left: 147px;
+    margin-left: 5%;
     align-items: center;
     justify-content: space-between;
+    margin-right: 20%;
 }
 
 .footer__nav {
